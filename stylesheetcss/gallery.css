@@ -1,0 +1,35 @@
+h1{
+    font-size: 28px;
+    color:  #a04000 ;
+    text-align: center;
+}
+.d1{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.d2{
+    display: grid;
+    width: 25%;
+    
+    
+}
+img{
+    width:220px;
+    height:300px;
+}
+@media screen and (max-width:600px){
+    .d1{
+        display:block;
+        
+    }
+    .d2{
+        width: 100%;
+        /* float:left;
+        display:block; */
+    }
+    img{
+        width:400px
+    }
+    
+}

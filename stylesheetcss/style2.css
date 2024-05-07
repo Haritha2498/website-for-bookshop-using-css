@@ -1,0 +1,21 @@
+td{
+        
+    border: none;
+}
+input{
+    height: 30px;
+    font-size: 18px;
+    background-color:  #f5eef8 ;
+    
+}
+.s1{
+    color: rgb(110, 7, 7);
+    background-color: antiquewhite;
+
+}
+.s1:hover{
+    color: rgb(55, 7, 110);
+    background-color: rgb(238, 192, 132);
+    font-size: 25px;
+
+}
